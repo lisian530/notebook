@@ -5,3 +5,4 @@
     - [特效](ppt/tx.md)
 - [Linux](linux.md)
     - [命令行记录](linux/command.md)   
+    - [shell](linux/shell.md)
