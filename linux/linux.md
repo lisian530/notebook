@@ -1,8 +1,8 @@
-# linux文件基本属性
+ linux文件基本属性
  - chown 修改所属用户与组
  - chmod 修改用户的权限
  - 11|1s-1 显示文件的属性和所属用户和组
- 
+
 
 ```bash
 [root@www /]# ls -l
@@ -18,16 +18,10 @@ dr-xr-xr-x   4 root root 4096 Apr 19  2012 boot
 - r 可读
 - w 可写
 - x 执行
-
-![alt text](image.png)
-
-
-
-
+![alt text](image-1.png)
 >这三个权限的位置不会改变，如果没有权限，就会出现减号 - 而已。
 
-
-![alt text](image-5.png)
+![alt text](image-4.png)
 
 - 第 1-3 位确定属主（该文件的所有者）拥有该文件的权限
 - 第4-6位确定属组（所有者的同组用户）拥有该文件的权限
@@ -44,7 +38,3 @@ drwxr-xr-x 2 root  root  4096 Feb 15 14:46 cron
 drwxr-xr-x 3 mysql mysql 4096 Apr 21  2014 mysql
 ……
 ```
-- 属主有可读、可写、可执行的权限
-- 其他用户也有可读和可执行的权限
-- root用户一般情况下，文件的权限对其不起作用
-
