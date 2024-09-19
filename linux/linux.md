@@ -18,10 +18,10 @@ dr-xr-xr-x   4 root root 4096 Apr 19  2012 boot
 - r 可读
 - w 可写
 - x 执行
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 >这三个权限的位置不会改变，如果没有权限，就会出现减号 - 而已。
 
-![alt text](image-4.png)
+![alt text](images/image-2.png)
 
 - 第 1-3 位确定属主（该文件的所有者）拥有该文件的权限
 - 第4-6位确定属组（所有者的同组用户）拥有该文件的权限
@@ -36,5 +36,4 @@ dr-xr-xr-x   4 root root 4096 Apr 19  2012 boot
 total 64
 drwxr-xr-x 2 root  root  4096 Feb 15 14:46 cron
 drwxr-xr-x 3 mysql mysql 4096 Apr 21  2014 mysql
-……
 ```
