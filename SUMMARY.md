@@ -6,4 +6,5 @@
 - [Linux](linux.md)
     - [命令行记录](linux/command.md)   
     - [shell](linux/shell.md)
+    - [linux](linux.md)
 - [study](study.md)
