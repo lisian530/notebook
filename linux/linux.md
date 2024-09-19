@@ -19,7 +19,7 @@ dr-xr-xr-x   4 root root 4096 Apr 19  2012 boot
 - w 可写
 - x 执行
 
-![alt text](image-4.png)
+![alt text](image.png)
 
 
 
