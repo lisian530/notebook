@@ -7,4 +7,7 @@
     - [命令行记录](linux/command.md)   
     - [shell](linux/shell.md)
     - [linux](linux.md)
+- [c语言程序](c.md)
+- [python](python.md)
+- [html](html.md)
 - [study](study.md)
