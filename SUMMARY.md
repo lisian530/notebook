@@ -11,3 +11,5 @@
 - [python](python.md)
 - [html](html.md)
 - [study](study.md)
+- [other](other.md)
+- [c_note](c_note.md)
